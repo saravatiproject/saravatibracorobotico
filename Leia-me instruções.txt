@@ -1,0 +1,16 @@
+ Braço Robótico Arduino trata-se de um braço mecânico desenvolvido para aplicação em projetos que trabalham com automação de robôs, proporcionando maiores possibilidades de movimentos e desenvolvimento de tarefas.
+Produzido totalmente em MDF de aproximadamente 3mm, é capaz de cumprir variadas funções por meio de plataformas de prototipagem, como, por exemplo, o Arduino ou o Raspberry Pi.
+Para que possa movimentar suas articulações deve ser utilizado em conjunto com 4 servos motores TowerPro SG90, módulo que apresenta movimentos proporcionais aos comandos indicados, controlando o giro e a posição do seu projeto.
+Enviado totalmente desmontado, porém com todas as suas peças inclusas, o Braço Robótico Arduino é facilmente montável e exerce junto de suas articulações movimentos de até 180° além de possui uma garra com uma abertura de aproximadamente 55mm.
+Para facilitar o procedimento de montagem, acompanha um exclusivo manual passo a passo com instruções e diversas ilustrações, contando com todas as observações necessárias para a perfeita montagem do produto.
+Muito tecnológico e de tamanho reduzido, porém com grande eficiência, o Braço Mecanico Arduino é ideal para trabalhos que serão apresentados em feiras estudantis, profissionais e mesmo internacionais voltadas ao mundo da tecnologia.
+
+Lista de produtos necessários para funcionamento, que NÃO ACOMPANHAM:
+
+1 - Arduino Uno R3 + Cabo USB;
+1 - Arduino Sensor Shield - Expansor de Entradas e Saídas V5.0;
+1 - Fonte de Alimentação Chaveada 6VDC 1A (Para o Sensor Shield);
+1 - Adaptador Fêmea com Bornes para plug P4;
+1 - Jumper Premium para Protoboard Fêmea-Fêmea 20 cm - Kit c/ 20 peças;
+2 - Joystick para Arduino - KY023;
+4 - Micro Servo Motor 9g SG90 Tower Pro 180°;
